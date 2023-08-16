@@ -1,0 +1,24 @@
+1. Arrays/Strings
+2. Two Pointers
+3. Sliding Window
+4. Matrix
+5. HashMap
+6. Intervals
+7. Stack
+8. LinkedList
+9. Binary Tree
+10. Binary Tree BFS
+11. Binary Search Tree
+12. Graph
+13. Graph BFS
+14. Tree
+15. Backtracking
+16. Divide and Conquer
+17. Kadane's Algorithm
+18. Binary Search
+17. Heap
+18. Bit Manipulation
+19. Math
+20. Dynamic Programming
+21. Multidimensional Dynamic Programming
+22. 
